@@ -1,4 +1,4 @@
- Which of the following suffers from a flaw that, in its logical aspects, is most like the difficulty described above?
+### Which of the following suffers from a flaw that, in its logical aspects, is most like the difficulty described above?
  A recent study of an insurance company's underwriters indicated that those who worked in pleasant physical surroundings were 25 percent more productive than their peers in unpleasant physical surroundings.
  Objective criteria for evaluating job performance included caseload and complexity of cases.
  People who have low immune-system activity tend to contract more viral infections tha do people with normal or high immune-system activity.
